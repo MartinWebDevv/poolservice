@@ -1,0 +1,147 @@
+@charset "ISO-8859-1";
+
+body{
+	margin: 0px;
+	padding: 0px;
+	width:1536px;
+	
+
+}
+
+h1{
+	margin:0px;
+}
+
+p{
+	margin:0px;
+}
+#container{
+	background-color: #0080FF;
+	width:auto;
+	height:749.5px;
+	margin:0px;
+}
+
+#header{
+	padding-left:10px;
+	padding-top: 15px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 26px;
+	letter-spacing: 0.0px;
+	word-spacing: 3px;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+#logo{
+	display:inline-block;
+	vertical-align:bottom;
+	width:90px;
+
+}
+
+#poolcolor{
+	color:rgb(0, 0, 0)
+}
+
+#servicecolor{
+	color:rgb(0, 0, 0)
+}
+
+#leftalign{
+	display:inline-block;
+	vertical-align:bottom;
+}
+
+#rightalign{
+	display:inline-block;
+	margin-left: 580px;
+	font-size: 16px;
+}
+
+a{
+	text-decoration: none;
+	color:#c4c4c4;
+}
+.spacing{
+	padding-left:45px;
+}
+
+#mainbody{
+	margin-left:5px;
+	margin-right:5px;
+	height:627px;
+	background-color:#66CCFF;
+}
+
+#form{
+	padding-top: 120px;
+	margin-left: 480px;
+	
+}
+
+#center{
+	margin-left:13px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 26px;
+	letter-spacing: 0.0px;
+	word-spacing: 3px;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: small-caps;
+	text-transform: none;
+}
+
+#subform{
+	border: 5px #00AAFF solid;
+	display: inline-block;
+	background-color:#3399FF;
+	padding: 40px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	letter-spacing: 0.0px;
+	word-spacing: 3px;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.formlables{
+	margin-bottom:9px;
+
+}
+
+#descsize{
+	height:75px;
+	width:180px;
+	margin-top:5px;
+	margin-left: 75px;
+}
+#emailform{
+	margin-left: 65px;
+}
+
+#firstname{
+	margin-left:29.5px;
+}
+
+#lastname{
+	margin-left:31px;
+}
+
+
+
+
+
+
+#footercolor{
+	height:29.5px;
+	padding-top:18px;
+	margin-left: 520px;
+}

@@ -1,0 +1,212 @@
+@charset "ISO-8859-1";
+
+body{
+	margin: 0px;
+	padding: 0px;
+	width:1536px;
+
+}
+
+h1{
+	margin:0px;
+}
+
+p{
+	margin:0px;
+}
+#container{
+	background-color: #0080FF;
+	width:auto;
+	margin:0px;
+}
+
+#header{
+	padding-left:10px;
+	padding-top: 15px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 26px;
+	letter-spacing: 0.0px;
+	word-spacing: 3px;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+#logo{
+	display:inline-block;
+	vertical-align:bottom;
+	width:90px;
+
+}
+
+#poolcolor{
+	color:rgb(0, 0, 0)
+}
+
+#servicecolor{
+	color:rgb(0, 0, 0)
+}
+
+#leftalign{
+	display:inline-block;
+	vertical-align:bottom;
+}
+
+#rightalign{
+	display:inline-block;
+	margin-left: 580px;
+	font-size: 16px;
+}
+
+a{
+	text-decoration: none;
+	color:#c4c4c4;
+}
+.spacing{
+	padding-left:45px;
+	
+	
+}
+
+#mainbody{
+	margin-left:5px;
+	margin-right:5px;
+	
+	background-color:#00AAFF;
+}
+
+#box1{
+	display:inline-block;
+	vertical-align:top;
+	height:305px;
+	width:490px;
+	background-color:#3399FF;
+	margin-top:5px;
+	margin-bottom:3px;
+	margin-left:8px;
+	padding-left:4px;
+	padding-right:2px;
+
+}
+
+#aboutcent{
+	padding-left:175px;
+	font-size:18px;
+	font-weight: 700;
+}
+
+#box2{
+	vertical-align:top;
+	display:inline-block;
+	width:490px;
+	
+}
+
+#imgtag{
+	margin:0px;
+	vertical-align:top;
+	margin-top:5px;
+	
+	width:501.8px;
+	height:305px;
+	display: inline-block;
+}
+
+
+#box3{
+	display:inline-block;
+	vertical-align:top;
+	height:305px;
+	width:490px;
+	margin-top:5px;
+	margin-right:2px;
+
+	background-color:#3399FF;
+	margin-left:12px;
+	padding-left:4px;
+	padding-right:2px;
+
+}
+
+
+
+.offerlist{
+	font-weight:700;
+}
+
+#offercent{
+	padding-left:175px;
+	font-size:18px;
+	font-weight: 700;
+}
+
+#box4{
+	vertical-align:top;
+	margin-top:2px;
+	display:inline-block;
+	width:490px;
+
+}
+
+#imgtag2{
+	margin:0px;
+	vertical-align:top;
+	margin-left:8px;
+	margin-bottom:5px;
+	width:495.6px;
+	height:305px;
+	display: inline-block;
+}
+
+#box5{
+	display:inline-block;
+	vertical-align:top;
+	height:305px;
+	width:497.5px;
+	margin-top:2px;
+	margin-bottom:2px;
+	background-color:#3399FF;
+	margin-left:13px;
+	padding-left:4px;
+	padding-right:2px;
+
+}
+
+#box6{
+	vertical-align:top;
+
+	display:inline-block;
+	width:490px;
+}
+
+#imgtag3{
+	margin:0px;
+	padding:0px;
+	vertical-align:top;
+
+	margin-top:2px;
+	width:490px;
+	height:305px;
+	display: inline-block;
+}
+
+#promisecent{
+	padding-left:175px;
+	font-size:18px;
+	font-weight: 700;
+}
+
+#box6{
+	vertical-align:top;
+	display:inline-block;
+	width:490px;
+	padding-left:4px;
+}
+
+#footercolor{
+	height:27.5px;
+	padding-top:18px;
+	margin-left: 520px;
+}

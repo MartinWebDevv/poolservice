@@ -1,0 +1,83 @@
+@charset "ISO-8859-1";
+
+body{
+	margin: 0px;
+	padding: 0px;
+	width:1536px;
+
+}
+
+h1{
+	margin:0px;
+}
+
+p{
+	margin:0px;
+}
+#container{
+	background-color: #0080FF;
+	width:auto;
+	margin:0px;
+}
+
+#header{
+	padding-left:10px;
+	padding-top: 15px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 26px;
+	letter-spacing: 0.0px;
+	word-spacing: 3px;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+#logo{
+	display:inline-block;
+	vertical-align:bottom;
+	width:90px;
+
+}
+
+#poolcolor{
+	color:rgb(0, 0, 0)
+}
+
+#servicecolor{
+	color:rgb(0, 0, 0)
+}
+
+#leftalign{
+	display:inline-block;
+	vertical-align:bottom;
+}
+
+#rightalign{
+	display:inline-block;
+	margin-left: 580px;
+	font-size: 16px;
+}
+
+a{
+	text-decoration: none;
+	color:#c4c4c4;
+}
+.spacing{
+	padding-left:45px;
+}
+
+#mainbody{
+	margin-left:5px;
+	margin-right:5px;
+	height:627px;
+	background-color:#66CCFF;
+}
+
+
+#footercolor{
+	height:27.5px;
+	padding-top:18px;
+	margin-left: 520px;
+}
